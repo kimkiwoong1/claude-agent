@@ -1,0 +1,63 @@
+# JEUS
+webadmin
+jeus
+domain.xml
+domain.xml.bak
+JeusMain
+webadmin/main.jsp
+
+# eGovFrame
+uat/uia
+cmm
+egovframework
+egovframework/com/cmm
+cmm/fms/FileDown.do
+cmm/uss/umt/EgovUserManageList.do
+
+# Tomcat
+manager/html
+host-manager/html
+examples
+docs
+RELEASE-NOTES.txt
+
+# Nexacro/WebSquare
+nexacroplatform
+websquare/websquare.html
+nexawebstart
+platform/nexacro
+
+# DEXT5
+dext5upload
+dext5editor
+DEXT5Upload.jsp
+
+# WebtoB
+webtob
+wtb
+
+# 공통 관리자/설정 노출 후보
+admin
+adm
+manager
+config
+config.xml
+web.xml
+web.xml.bak
+.env
+.git/config
+application.properties
+application.yml
+
+# 한국 기관/기업 흔한 네이밍 (발음기반 영문화 예시 - 실제 타겟 콘텐츠 기반으로 확장할 것)
+gonggo
+minwon
+shinchung
+gongji
+board
+notice
+bbs
+cs
+customer
+member
+mypage
